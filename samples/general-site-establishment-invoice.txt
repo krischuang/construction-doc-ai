@@ -1,0 +1,13 @@
+INVOICE
+Vendor: Metro Site Services
+Invoice Number: INV-2026-0674
+Date: 11 July 2026
+
+Line Items:
+1. Site shed and amenities hire | Qty: 1 | Unit: month | Unit Price: $850.00 | Total: $850.00
+2. Scaffold hire | Qty: 1 | Unit: month | Unit Price: $1200.00 | Total: $1200.00
+3. Project management and supervision | Qty: 40 | Unit: hours | Unit Price: $110.00 | Total: $4400.00
+
+Subtotal: $6450.00
+GST (10%): $645.00
+Total: $7095.00

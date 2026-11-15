@@ -1,0 +1,13 @@
+TENDER
+Vendor: North Shore Renovations
+Tender Number: TND-2026-0229
+Date: 19 August 2026
+
+Line Items:
+1. Electrical rewire of kitchen and laundry | Qty: 1 | Unit: each | Unit Price: $1200.00 | Total: $1200.00
+2. Plumbing fixture replacement | Qty: 1 | Unit: each | Unit Price: $980.00 | Total: $980.00
+3. Kitchen cabinetry installation | Qty: 1 | Unit: each | Unit Price: $4500.00 | Total: $4500.00
+
+Subtotal: $6680.00
+GST (10%): $668.00
+Total: $7348.00

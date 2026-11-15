@@ -1,0 +1,13 @@
+QUOTE
+Vendor: Ironbark Steel Fabrication
+Quote Number: QTE-2026-0211
+Date: 27 January 2026
+
+Line Items:
+1. Structural steel beam fabrication | Qty: 8 | Unit: each | Unit Price: $680.00 | Total: $5440.00
+2. Column supply and delivery | Qty: 6 | Unit: each | Unit Price: $450.00 | Total: $2700.00
+3. Site welding and installation | Qty: 40 | Unit: hours | Unit Price: $95.00 | Total: $3800.00
+
+Subtotal: $11940.00
+GST (10%): $1194.00
+Total: $13134.00

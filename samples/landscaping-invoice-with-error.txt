@@ -1,0 +1,13 @@
+INVOICE
+Vendor: Coastal Landscaping Group
+Invoice Number: INV-2026-0601
+Date: 6 June 2026
+
+Line Items:
+1. Turf supply and installation | Qty: 200 | Unit: m2 | Unit Price: $12.00 | Total: $2400.00
+2. Paving installation | Qty: 45 | Unit: m2 | Unit Price: $65.00 | Total: $2925.00
+3. Retaining wall construction | Qty: 1 | Unit: each | Unit Price: $3100.00 | Total: $3100.00
+
+Subtotal: $8025.00
+GST (10%): $802.50
+Total: $8827.50

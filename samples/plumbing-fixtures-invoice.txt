@@ -1,0 +1,13 @@
+INVOICE
+Vendor: Western Suburbs Plumbing
+Invoice Number: INV-2026-0392
+Date: 18 February 2026
+
+Line Items:
+1. Supply and install hot water system | Qty: 1 | Unit: each | Unit Price: $1650.00 | Total: $1650.00
+2. Bathroom fixture installation | Qty: 3 | Unit: each | Unit Price: $420.00 | Total: $1260.00
+3. Drainage pipe connection | Qty: 25 | Unit: linear metre | Unit Price: $38.00 | Total: $950.00
+
+Subtotal: $3860.00
+GST (10%): $386.00
+Total: $4246.00

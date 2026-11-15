@@ -1,0 +1,13 @@
+QUOTE
+Vendor: Southside Roofing Specialists
+Quote Number: QTE-2026-0327
+Date: 22 April 2026
+
+Line Items:
+1. Roof sheeting supply and install | Qty: 150 | Unit: m2 | Unit Price: $55.00 | Total: $8250.00
+2. Guttering replacement | Qty: 60 | Unit: linear metre | Unit Price: $35.00 | Total: $2100.00
+3. Flashing and waterproofing | Qty: 1 | Unit: each | Unit Price: $950.00 | Total: $950.00
+
+Subtotal: $11300.00
+GST (10%): $1130.00
+Total: $12430.00

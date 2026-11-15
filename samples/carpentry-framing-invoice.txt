@@ -1,0 +1,13 @@
+INVOICE
+Vendor: Blue Mountains Carpentry Co
+Invoice Number: INV-2026-0455
+Date: 9 May 2026
+
+Line Items:
+1. Timber wall framing | Qty: 85 | Unit: linear metre | Unit Price: $42.00 | Total: $3570.00
+2. Door frame installation | Qty: 12 | Unit: each | Unit Price: $180.00 | Total: $2160.00
+3. Window frame fitting | Qty: 9 | Unit: each | Unit Price: $220.00 | Total: $1980.00
+
+Subtotal: $7710.00
+GST (10%): $771.00
+Total: $8481.00

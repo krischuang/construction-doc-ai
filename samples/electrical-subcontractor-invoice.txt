@@ -1,0 +1,13 @@
+INVOICE
+Vendor: Harbour City Electrical Pty Ltd
+Invoice Number: INV-2026-0147
+Date: 12 March 2026
+
+Line Items:
+1. Supply and install 3-phase switchboard | Qty: 1 | Unit: each | Unit Price: $2400.00 | Total: $2400.00
+2. Rewire ground floor power circuits | Qty: 1 | Unit: each | Unit Price: $1850.00 | Total: $1850.00
+3. RCD safety switch installation | Qty: 4 | Unit: each | Unit Price: $95.00 | Total: $380.00
+
+Subtotal: $4630.00
+GST (10%): $463.00
+Total: $5093.00

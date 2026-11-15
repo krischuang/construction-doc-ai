@@ -1,0 +1,13 @@
+TENDER
+Vendor: Statewide Concrete Supply
+Tender Number: TND-2026-0088
+Date: 3 April 2026
+
+Line Items:
+1. Supply and pour concrete slab | Qty: 120 | Unit: m2 | Unit Price: $85.00 | Total: $10200.00
+2. Footing formwork and pour | Qty: 40 | Unit: linear metre | Unit Price: $120.00 | Total: $4800.00
+3. Reinforcement mesh supply | Qty: 15 | Unit: sheet | Unit Price: $95.00 | Total: $1425.00
+
+Subtotal: $16425.00
+GST (10%): $1642.50
+Total: $18067.50
