@@ -1,0 +1,26 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// One row per document processed through the extraction pipeline.
+model ExtractedDocument {
+  id              String   @id @default(cuid())
+  sourceFilename  String
+  rawText         String
+  vendorName      String
+  documentNumber  String
+  documentDate    String
+  subtotal        Float
+  tax             Float
+  grandTotal      Float
+  lineItems       Json
+  validationPassed Boolean
+  validationIssues Json
+  webhookSentAt   DateTime?
+  createdAt       DateTime @default(now())
+}
