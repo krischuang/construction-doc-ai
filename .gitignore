@@ -26,5 +26,8 @@ prisma/dev.db
 .vscode/
 .idea/
 
+# typescript build info
+*.tsbuildinfo
+
 # test coverage
 coverage/
